@@ -11,3 +11,5 @@
 ### To-do:
 - [ ] Add starting grid positions
 - [ ] Include qualifying and practice results
+- [ ] Add option to use or to not use new point system for old races
+- [ ] Add pit stop and tyre stint information
